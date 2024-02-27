@@ -1,0 +1,1 @@
+print('Roman Antoshchuk, CS-2026')
